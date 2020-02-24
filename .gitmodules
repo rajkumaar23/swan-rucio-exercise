@@ -1,0 +1,6 @@
+[submodule "Task 2/weather-jupyterlab"]
+	path = Task 2/weather-jupyterlab
+	url = git@github.com:rajkumaar23/weather-jupyterlab.git
+[submodule "Task 2/jupyterlab_weather"]
+	path = Task 2/jupyterlab_weather
+	url = git@github.com:rajkumaar23/jupyterlab_weather.git
